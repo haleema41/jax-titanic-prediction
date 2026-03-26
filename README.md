@@ -1,4 +1,4 @@
-# JAX House Prices Prediction Lab
+# JAX House Prices Prediction 
 
 ## Overview
 This project demonstrates **linear regression using JAX** with the House Prices dataset from Kaggle. The goal is to predict house prices based on features like square footage, number of rooms, quality, and year built.
@@ -53,7 +53,7 @@ git clone <your-repo-url>
 
 ----
 
-
+## USAGE
 - Training time improved with `jit`
 - `grad` simplifies gradient computation
 - RMSE shows model performance on training data
